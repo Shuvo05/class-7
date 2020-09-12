@@ -1,0 +1,42 @@
+.main{
+	background-color: gray;
+	margin:auto;
+	width: 60%;
+
+	padding: 50px;
+}
+.main h1{
+	color:  #24243a;;
+	
+	font-size: 40px;
+	font-style: italic;
+}
+
+
+.main img{
+	height: 400px;
+	width: auto;
+}
+
+
+
+
+.main p{
+	color: #c6bca4;;
+	font-size: 30px;
+}
+
+
+
+.main p:nth-child(5){
+	color: #575040;
+
+}
+.main p:nth-child(6){
+	color: red;
+}
+
+
+body{
+	background-color: black;
+}
